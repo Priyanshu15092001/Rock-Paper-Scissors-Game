@@ -35,7 +35,7 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. This we
 
 ## Demo
 
-[Live Demo](https://priyanshu15092001.github.io/Calculator-app/)  
+[Live Demo](https://priyanshu15092001.github.io/Rock-Paper-Scissors-Game/)  
 
 ## Screenshot
 
